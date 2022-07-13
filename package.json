@@ -1,0 +1,13 @@
+{
+  "name": "yarn-berry-test",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "private": true,
+  "workspaces": [
+    "projects/*"
+  ],
+  "dependencies": {
+    "react": "^18.2.0"
+  }
+}
